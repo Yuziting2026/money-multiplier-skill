@@ -1,2 +1,10 @@
-# money-multiplier-skill
-Money Multiplier Calculator for Money and Banking
+# 货币乘数计算器 (Money Multiplier Calculator)
+
+## 项目简介
+这是一个《货币银行学》课程的专属 Skill。它可以根据输入的法定存款准备金率（rr）、超额存款准备金率（er）和现金漏损率（c），计算货币乘数。
+
+## 计算公式
+m = (1 + c) / (rr + er + c)
+
+## 使用方法
+下载项目中的 index.html 文件，用浏览器打开，输入各项比率，点击计算即可。
